@@ -1,2 +1,2 @@
-# javascript
-Curso desde cero de javascript
+# JavaScript
+Curso desde cero de JavaScript
